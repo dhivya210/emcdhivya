@@ -1,1 +1,3 @@
- The price of the toy is 200 euros 
+
+ The price of the toy is 300 eurs 
+
